@@ -1,0 +1,99 @@
+---
+title: "Gamification and Motivation"
+output: revealjs::revealjs_presentation
+reveal_options:
+      slideNumber: true
+      previewLinks: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Agenda
+- What is Gamification?
+- Examples
+- 8 Driver of Gamification
+
+## What is Gamification?
+> - Gamification is the act of applying game mechanics to non-game activity.
+> - Human-Focused Design
+
+## Human vs Function -Focused Design
+
+### Human Focused Design 
+> - Example: I parked further away, so I can walk alittle bit more because I need more exercise
+> - Emphasis is on optimizing the feelings, motivations and engagement of the player.
+
+### Function Focused Design 
+> - Example: I set up my payroll direct deposit, so I can get my money faster.
+> - Emphasis is on optimizing the process
+
+## But first... What is a game?
+
+### A Game is 
+> - An activity that the player does NOT have to play
+> - 
+
+### A Game has 
+> - A beginning
+> - a goal/objective
+> - a set of available activities
+> - an finish
+  
+## Design Framework
+
+# 1. Epic Meaning & Calling 
+- The player believes they are doing something greater than themselves and/or 'chosen' to take that action
+
+## eg. Wikipedia
+> - Contributer to Wikipedia are volunteers
+> - Contributer believes the are protecting humanity's knowledge, eg something much bigger than themselves.
+
+# 2. Development & Accomplishment
+
+## 2. Development & Accomplishment
+- The internal drive for making progress, developing skills, achieving mastery and overcoming challenges.
+-- The challenge give the task meanings.
+
+# 3. Empowerment of Creativity & Feedback
+> - The users engages in a creative process where they repeatedly figure out new things and try different combinations.
+> - The users can express their creativity through the activity, receive feedback and adjust accordingly.
+
+## eg. Lego 
+> - Lego are awesome at letting you build something in many different ways
+
+# 4. Ownership & Possession
+> - The users feel like they own or control something.
+
+## eg. wealth accumulation
+
+# 5. Social Influence & Relatedness 
+> - Mentorship
+> - social acceptance
+> - social feedback 
+> - companionship
+> - competition
+> - envy
+
+## eg. OPower neighbor's electricity usage
+
+
+# 6. Scarcity & Impatience 
+- wanting something because it is extremely rare, exclusive, or immediately unattainable
+
+## eg. Tickle-Me Elmo
+> - 
+
+# 7. Unpredictability & Curiosity 
+- User is engaged because the don't know what is going to happen next.
+
+## eg. Lottery
+> - 
+
+# 8. Loss & Avoidance
+- motivation to avoid something negative from happening
+
+## eg. fee avoidance
+
+  
