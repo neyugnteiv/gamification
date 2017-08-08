@@ -51,8 +51,6 @@ knitr::opts_chunk$set(echo = FALSE)
 > - Contributer believes the are protecting humanity's knowledge, eg something much bigger than themselves.
 
 # 2. Development & Accomplishment
-
-## 2. Development & Accomplishment
 - The internal drive for making progress, developing skills, achieving mastery and overcoming challenges.
 -- The challenge give the task meanings.
 
